@@ -1,2 +1,6 @@
 # DashboardusingExcel
-This Dashboard shows the Business performance of 10alytics over the years under review 
+This Dashboard shows the Business performance of 10alytics over the years under review. 
+Excel as been used as a tool to visualise the performance and create the needed insight to improving the furtune of this Organisation via a carefully prapared Dashboard.
+We see a sluggish rise in profit over the entire 2015 but a sharp rice in the December of the same yaer. The sharp increase is fairly maintained until june of 2016 where there was a sharp decline towards july. 
+This Organization earns its profit evenly from male and female genders but the adult population (not old adult) is reponsible for the bulk of the profit among the age ranges partronising it.The Organization is involved in three items: Accessories, clothings and phones. The profitability on accessories is more rendering the respective revenues irrelevant. Note however that some states, brought higher profitability than others: Lagos,Abuja and Akwa ibom ( in desending order) broght in higher profit than other states ( to mention a few)
+It is obvious from this visualization that the number of transactions, if increased, within the same time frame, will improve profitability. However more marketing should be geared towards the adult, youth and old adult respectively for better profitability. Finally, the states of higher profitability should be fully maximised to aquire maximum market share.
